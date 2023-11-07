@@ -10,7 +10,7 @@ function YourBotArmy({onDelete,botArmy}) {
  
   return (
       <div>
-       < h2>Your Bot Army</h2>
+       < h2>Bot Army</h2>
           <div style={{display:"flex"}}>
       {/* Display bots in the army and provide a way to delete them */}
       
